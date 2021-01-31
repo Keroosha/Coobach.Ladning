@@ -1,0 +1,19 @@
+{
+  "name": "Coobach.Landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Keroosha/Coobach.Ladning.git",
+  "author": "Kirill Poletaev <mr.dead.toast@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.12.4",
+    "prettier": "2.2.1"
+  },
+  "dependencies": {
+    
+  }
+}
